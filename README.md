@@ -2,7 +2,7 @@
 
 <p align="center" style="font-size: 1.5em;">UNet模型现在已经可用了!🎉</p>
 
-<p style="color: red">本项目已完成全部开发，已申请计算机软件著作权，正在申请国家专利
+<p align="center" style="color: red">本项目已完成全部开发，已申请计算机软件著作权，正在申请国家专利
 
 ## 快速上手
 
