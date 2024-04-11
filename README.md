@@ -2,7 +2,7 @@
 
 <p align="center" style="color: red">本项目已完成全部开发，已申请计算机软件著作权，正在申请国家专利🎉</p>
 
-## 快速上手
+## Quick Start
 
 1. 下载本仓库并保持在`main`分支
 2. 安装依赖:
@@ -22,7 +22,7 @@
 6. 浏览器打开网址[127.0.0.1:7860](http://127.0.0.1:7860)
 7. 开始体验!🤗
 
-## 训练模型
+## Model Training
 
 仓库里内置了649张打好标签的数据, 可供参考训练!😃
 
@@ -47,6 +47,8 @@
     ```
 
 ## Developer's Message
+
+The project is made by three undergraduates in Xi'an Jiaotong University
 
 <a href="https://github.com/NPH-XJTU/NPH-Final/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=NPH-XJTU/NPH-Final" />
