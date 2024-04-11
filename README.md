@@ -1,4 +1,4 @@
-# 2023XJTU_-Identification-model-for-NPH
+# XJTU-Identification-Model-for-NPH
 
 <p align="center" style="font-size: 1.5em;">UNet模型现在已经可用了!🎉</p>
 
@@ -48,6 +48,10 @@
     python predict.py
     ```
 
-## developer's message
+## Developer's Message
 
 关于evans指数的测量已经由[@hbx](https://github.com/root-hbx)完成了, 你们可以增加基于evans指数和体重, 年龄, BMI等的诊断报告😘
+
+<a href="https://github.com/NPH-XJTU/NPH-Final/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=NPH-XJTU/NPH-Final" />
+</a>
