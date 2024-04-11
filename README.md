@@ -2,11 +2,11 @@
 
 <p align="center" style="font-size: 1.5em;">UNet模型现在已经可用了!🎉</p>
 
-<p style="color: red">本项目还在开发阶段, 目前还需实现evans指数测量
+<p style="color: red">本项目已完成全部开发，已申请计算机软件著作权，正在申请国家专利
 
 ## 快速上手
 
-1. 下载本仓库并切换到`UNet`分支
+1. 下载本仓库并保持在`main`分支
 2. 安装依赖:
 
     ```shell
@@ -26,7 +26,7 @@
 
 ## 训练模型
 
-仓库里内置了649张打好标签的数据, 你可以直接开始训练!😃
+仓库里内置了649张打好标签的数据, 可供参考训练!😃
 
 1. 复制训练参数配置文件:
 
@@ -49,8 +49,6 @@
     ```
 
 ## Developer's Message
-
-关于evans指数的测量已经由[@hbx](https://github.com/root-hbx)完成了, 你们可以增加基于evans指数和体重, 年龄, BMI等的诊断报告😘
 
 <a href="https://github.com/NPH-XJTU/NPH-Final/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=NPH-XJTU/NPH-Final" />
