@@ -1,6 +1,6 @@
 # XJTU-Identification-Model-for-NPH
 
-<p align="center" style="color: red">本项目已完成全部开发，已申请计算机软件著作权，正在申请国家专利🎉</p>
+<p align="center" style="color: red">本项目已完成全部开发，已获得计算机软件著作权，正在申请国家专利🎉</p>
 
 ## Quick Start
 
